@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/status-finished-green)
 # 2dDungeonGenerator
 ![](https://i.gyazo.com/1e83f98498d5018631c075d19d90abaf.gif)
 
